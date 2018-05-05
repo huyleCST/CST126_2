@@ -1,0 +1,4 @@
+NWN	Northwest_Natural_Gas	58.3	1.95
+APPL	Apple_Inc.	174.96	1.9
+GOOG	Alphabet_Inc.	1029.27	17.93
+LUV	Southwest_Airlines	55.08	5.79
